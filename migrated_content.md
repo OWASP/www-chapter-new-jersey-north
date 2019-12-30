@@ -24,16 +24,16 @@ Here](https://www.meetup.com/owaspnycnj/members/?op=leaders)
 
 OWASP Foundation ([Overview
 Slides](https://docs.google.com/a/owasp.org/presentation/d/10wi1EWFCPZwCpkB6qZaBNN8mR2XfQs8sLxcj9SCsP6c/edit?usp=sharing))
-is a professional association of [global members](Membership "wikilink")
+is a professional association of [global members](Membership )
 and is open to anyone interested in learning more about software
 security. Local chapters are run independently and guided by the
-[Chapter_Leader_Handbook](Chapter_Leader_Handbook "wikilink"). As a
-[501(c)(3)](About_OWASP "wikilink") non-profit professional association
+[Chapter_Leader_Handbook](Chapter_Leader_Handbook ). As a
+[501(c)(3)](About_OWASP ) non-profit professional association
 your support and sponsorship of any meeting venue and/or refreshments is
 tax-deductible. Financial contributions should only be made online using
 the authorized online chapter donation button. To be a <b>SPEAKER</b> at
 ANY OWASP Chapter in the world simply review the [speaker
-agreement](Speaker_Agreement "wikilink") and then contact the local
+agreement](Speaker_Agreement ) and then contact the local
 chapter leader with details of what OWASP PROJECT, independent research
 or related software security topic you would like to present on.
 
@@ -62,9 +62,9 @@ refused entry to the building.
 Ready to become a member?
 ![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
 "Join_Now_BlueIcon.JPG") -- Local Sponsorship opportunities [Click
-Here](https://www.owasp.org/images/b/ba/NYC_Chapter_Sponsorship.pdf)
+Here](/www-pdf-archive/NYC_Chapter_Sponsorship.pdf)
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:United States](Category:United_States "wikilink")
-[Category:New York](Category:New_York "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:United States](Category:United_States )
+[Category:New York](Category:New_York )
